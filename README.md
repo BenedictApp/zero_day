@@ -1,1 +1,1 @@
-how vagrant account set up is done 
+creating a directory 0x00-vagrant inside the repository
